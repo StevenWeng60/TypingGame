@@ -1,3 +1,3 @@
 # TypingGame
 
-Typing game that tracks wpm, accuracy, and time with stories that range from easy to hard difficult. Created using python and tkinter.
+Typing game that tracks wpm, accuracy, and time. You can choose to type stories from easy to hard. Created using python and tkinter.
